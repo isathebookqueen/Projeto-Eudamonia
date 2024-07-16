@@ -1,0 +1,27 @@
+body {
+  background-color: #ffffe0;
+}
+
+.header {
+  background-color: #ffff00;
+}
+
+.menu {
+  background-color: #ffff00;
+}
+
+.menu ul li a {
+  color: #000000;
+}
+
+.content h2 {
+  color: #000000;
+}
+
+.content p {
+  color: #000000;
+}
+
+.footer {
+  background-color: #ffff00;
+}
